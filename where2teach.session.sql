@@ -1,0 +1,1 @@
+ALTER TABLE available_chairs ALTER COLUMN id TYPE uuid;
