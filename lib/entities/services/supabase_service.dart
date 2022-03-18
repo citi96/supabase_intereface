@@ -7,6 +7,7 @@ import 'authentication_service.dart';
 
 abstract class SupabaseService<T> {
   //final _authService = locator<AuthenticationService>();
+  //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  
   final _logger = Logger();
 
   String tableName();
